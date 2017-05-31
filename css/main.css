@@ -1,0 +1,14 @@
+* {
+  background-color: orange;
+}
+
+body {
+  font-family: sans-serif;
+  color: white;
+  margin-top: 20%;
+  text-align: center;
+}
+
+#clock {
+  font-size: 150px;
+}
